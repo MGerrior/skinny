@@ -1,4 +1,5 @@
 {
+   "name": "MGerrior/skinny",
    "require": {
       "php": ">=5.4.0",
       "react/http": "0.4.*",
